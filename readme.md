@@ -2,7 +2,6 @@
 
 - 👨‍💻 Fullstack Developer
 - 🏫 Student @ [Metrópole Digital - UFRN](https://portal.imd.ufrn.br/portal/institucional/sobreimd)
-- 💼 Intern @ [Manancial de Vidas](https://manancialdevidas.com.br)
 
 ## 🚀 Skills
 
